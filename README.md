@@ -19,3 +19,10 @@ The complete dataset, along with the results and trained models, can be accessed
 If you find this work useful, please visit my Google Scholar profile and consider citing the relevant papers.
 
 - [Google Scholar Profile](https://scholar.google.com/citations?user=R9XAK2IAAAAJ&hl=en)
+
+### Google Colab Links
+
+- [Classification](https://colab.research.google.com/drive/1u-4SivZBkEx1bcrkGaDpJQWck-AK87g1?usp=sharing)
+
+- [Detection and Segmentation](https://colab.research.google.com/drive/1tWYqbc7D8nowoq9-skR4tFbj3WhqsqCS?usp=sharing)
+
