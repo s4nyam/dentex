@@ -1,4 +1,4 @@
-# Dentex Classification, Detection and Segmentation
+# Dentex Classification, Detection and Segmentation 2024
 
 This repo provides two notebooks that are self explanaotry. Just click run all and it will download the dataset, unzip it and perform training-testing.
 
